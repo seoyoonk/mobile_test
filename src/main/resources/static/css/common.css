@@ -1,0 +1,134 @@
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  padding: 0;
+  margin: 0;
+  -webkit-text-size-adjust: 100%;
+  touch-action: manipulation;
+  font-family: 'NanumSquare', sans-serif;
+
+
+}
+.page {
+  font-family: -apple-system, 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  font-weight: 400;
+  background-color: #efeff4;
+  background-color: #efeff4;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-x: visible;
+  overflow-y: hidden;
+  color: #1f1f21;
+  color: #1f1f21;
+  -ms-overflow-style: none;
+  -webkit-font-smoothing: antialiased;
+}
+.page::-webkit-scrollbar {
+  display: none;
+}
+.page__content {
+  background-color: #efeff4;
+  background-color: #efeff4;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-sizing: border-box;
+}
+.page__background {
+  background-color: #efeff4;
+  background-color: #efeff4;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-sizing: border-box;
+}
+form{
+	display: inline;
+
+}
+.btn { 
+	border-radius: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+	font-size: 1.2em;
+}
+.title_area{
+	text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+	 
+}	
+.title_area h3{
+	font-weight: 800;
+}
+
+.form-control{
+	height: 3em;
+    border-radius: 2em;
+	padding-left: 2em;
+}
+.center{
+		text-align:center;
+		margin-top: 2em
+}
+.btn_area{
+		text-align:center;
+		margin-top: 2em
+}
+.container { 
+    background-color: #e3dadf;
+    height: 100%;
+    border-top-left-radius: 1.5em;
+    border-top-right-radius: 1.5em;
+    padding-top: 2.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}	
+.term{
+	height: 0.3em;
+}
+.guide{
+	font-size: 0.7em;
+    color: red;
+    margin-top: 1em;
+    margin-left: 2.5em;
+}
+
+.panel{
+	border: 1px solid #ccc4c8;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 0.4em;
+    padding-right: 1em;
+    border-radius: 0.4em;
+    margin-top: 1em;
+}
+.red{
+	color:red
+}
+.seecontent{
+	padding-top:0.3em;
+	text-decoration:none;
+	color:grey;
+	font-size:0.7em;"
+}
