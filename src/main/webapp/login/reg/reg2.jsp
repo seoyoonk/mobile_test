@@ -27,5 +27,4 @@ request.setAttribute("page_title", "회원가입(2/3)");
 		</div> 
 	 
     </layout:put>
-    
 </layout:extends>
